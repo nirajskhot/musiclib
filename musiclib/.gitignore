@@ -34,3 +34,6 @@ build/
 
 ### Private Config Files
 db.properties
+
+### log files for musiclib 
+logs/

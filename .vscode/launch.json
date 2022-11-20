@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MusiclibApplication<musiclib>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nsk.musiclib.MusiclibApplication",
+            "projectName": "musiclib",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
